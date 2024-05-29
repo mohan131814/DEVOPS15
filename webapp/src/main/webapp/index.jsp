@@ -20,7 +20,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>By creating an account sdfckjsandcijhasuhcd hfuhaushc uai cjaiugahsd uawyduahduf y7a9yd u9ay dsuashc97yascuhyou agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
